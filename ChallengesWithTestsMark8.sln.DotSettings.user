@@ -12,5 +12,15 @@
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.CharacterIsALetter&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet01Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.ArrayContainsAFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.IsSumOfOddsOdd&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.PasswordContainsUpperLowerAndNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.GetFirstLetterOfString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.GetLastLetterOfString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.Divide&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.ChangeAllElementsToUppercase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.LastMinusFirst&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests.ShouldGetOddsBelow100&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net9.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
